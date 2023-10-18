@@ -1,0 +1,759 @@
+[
+  {
+    "id": 1,
+    "name": "Apple IPad Pro",
+    "description": "IPad pro dernière génération",
+    "unit_price": 700,
+    "category": {
+      "id": 1,
+      "name": "tablette",
+      "published_at": "2020-11-13T17:32:00.519Z",
+      "created_at": "2020-11-13T17:31:55.196Z",
+      "updated_at": "2020-11-16T01:00:14.191Z"
+    },
+    "published_at": "2020-11-13T17:34:27.765Z",
+    "created_at": "2020-11-13T17:34:21.664Z",
+    "updated_at": "2020-11-22T17:50:48.301Z",
+    "photo": {
+      "id": 4,
+      "name": "Ipad pro.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 580,
+      "height": 580,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_Ipad pro.jpg",
+          "hash": "thumbnail_Ipad_pro_b66255e14f",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 4.01,
+          "path": null,
+          "url": "/uploads/thumbnail_Ipad_pro_b66255e14f.jpg"
+        },
+        "small": {
+          "name": "small_Ipad pro.jpg",
+          "hash": "small_Ipad_pro_b66255e14f",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 500,
+          "size": 20.05,
+          "path": null,
+          "url": "/uploads/small_Ipad_pro_b66255e14f.jpg"
+        }
+      },
+      "hash": "Ipad_pro_b66255e14f",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 25.21,
+      "url": "/uploads/Ipad_pro_b66255e14f.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-21T21:41:37.085Z",
+      "updated_at": "2020-11-21T21:41:37.110Z"
+    },
+    "details": []
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy A8",
+    "description": "Dernier Samsung",
+    "unit_price": 599,
+    "category": {
+      "id": 2,
+      "name": "smartphone",
+      "published_at": "2020-11-13T17:32:56.195Z",
+      "created_at": "2020-11-13T17:32:19.423Z",
+      "updated_at": "2020-11-16T01:00:27.084Z"
+    },
+    "published_at": "2020-11-13T17:35:04.776Z",
+    "created_at": "2020-11-13T17:34:55.915Z",
+    "updated_at": "2020-11-22T17:51:34.295Z",
+    "photo": {
+      "id": 5,
+      "name": "Samsun galaxy tab.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 550,
+      "height": 550,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_Samsun galaxy tab.jpg",
+          "hash": "thumbnail_Samsun_galaxy_tab_79634d900e",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 3.33,
+          "path": null,
+          "url": "/uploads/thumbnail_Samsun_galaxy_tab_79634d900e.jpg"
+        },
+        "small": {
+          "name": "small_Samsun galaxy tab.jpg",
+          "hash": "small_Samsun_galaxy_tab_79634d900e",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 500,
+          "size": 18.03,
+          "path": null,
+          "url": "/uploads/small_Samsun_galaxy_tab_79634d900e.jpg"
+        }
+      },
+      "hash": "Samsun_galaxy_tab_79634d900e",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 21.7,
+      "url": "/uploads/Samsun_galaxy_tab_79634d900e.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-21T21:41:37.146Z",
+      "updated_at": "2020-11-21T21:41:37.167Z"
+    },
+    "details": [
+      {
+        "id": 2,
+        "quantity": "1",
+        "order": 2,
+        "product": 2,
+        "published_at": "2020-11-13T17:51:58.233Z",
+        "created_at": "2020-11-13T17:51:50.333Z",
+        "updated_at": "2020-11-22T17:51:34.268Z"
+      },
+      {
+        "id": 5,
+        "quantity": "1",
+        "order": 2,
+        "product": 2,
+        "published_at": "2020-11-13T17:52:52.193Z",
+        "created_at": "2020-11-13T17:52:50.814Z",
+        "updated_at": "2020-11-22T17:51:34.268Z"
+      },
+      {
+        "id": 6,
+        "quantity": "1",
+        "order": 4,
+        "product": 2,
+        "published_at": "2020-11-13T17:53:08.286Z",
+        "created_at": "2020-11-13T17:53:06.939Z",
+        "updated_at": "2020-11-22T17:51:34.268Z"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Apple Iphone 7",
+    "description": "Pas de description",
+    "unit_price": 699,
+    "category": {
+      "id": 2,
+      "name": "smartphone",
+      "published_at": "2020-11-13T17:32:56.195Z",
+      "created_at": "2020-11-13T17:32:19.423Z",
+      "updated_at": "2020-11-16T01:00:27.084Z"
+    },
+    "published_at": "2020-11-13T17:37:47.471Z",
+    "created_at": "2020-11-13T17:36:27.937Z",
+    "updated_at": "2020-11-22T22:46:37.752Z",
+    "photo": {
+      "id": 8,
+      "name": "$_57.png",
+      "alternativeText": "",
+      "caption": "",
+      "width": 380,
+      "height": 380,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_$_57.png",
+          "hash": "thumbnail_57_b76f869cc3",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 156,
+          "height": 156,
+          "size": 21.11,
+          "path": null,
+          "url": "/uploads/thumbnail_57_b76f869cc3.png"
+        }
+      },
+      "hash": "57_b76f869cc3",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 111.98,
+      "url": "/uploads/57_b76f869cc3.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-22T22:46:08.231Z",
+      "updated_at": "2020-11-22T22:46:14.952Z"
+    },
+    "details": [
+      {
+        "id": 4,
+        "quantity": "1",
+        "order": null,
+        "product": 3,
+        "published_at": "2020-11-13T17:52:32.847Z",
+        "created_at": "2020-11-13T17:52:31.558Z",
+        "updated_at": "2020-12-05T16:13:57.225Z"
+      },
+      {
+        "id": 7,
+        "quantity": "2",
+        "order": 3,
+        "product": 3,
+        "published_at": "2020-11-13T17:53:26.403Z",
+        "created_at": "2020-11-13T17:53:21.084Z",
+        "updated_at": "2020-11-22T22:46:37.734Z"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Apple IPhone XS",
+    "description": "Dernier IPhone Apple",
+    "unit_price": 999,
+    "category": {
+      "id": 2,
+      "name": "smartphone",
+      "published_at": "2020-11-13T17:32:56.195Z",
+      "created_at": "2020-11-13T17:32:19.423Z",
+      "updated_at": "2020-11-16T01:00:27.084Z"
+    },
+    "published_at": "2020-11-13T17:37:42.623Z",
+    "created_at": "2020-11-13T17:37:40.844Z",
+    "updated_at": "2020-11-22T17:51:04.850Z",
+    "photo": {
+      "id": 3,
+      "name": "iphone xs.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 300,
+      "height": 300,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_iphone xs.jpg",
+          "hash": "thumbnail_iphone_xs_ab50648043",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 4.95,
+          "path": null,
+          "url": "/uploads/thumbnail_iphone_xs_ab50648043.jpg"
+        }
+      },
+      "hash": "iphone_xs_ab50648043",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 14.26,
+      "url": "/uploads/iphone_xs_ab50648043.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-21T21:41:37.020Z",
+      "updated_at": "2020-11-22T22:45:06.242Z"
+    },
+    "details": [
+      {
+        "id": 1,
+        "quantity": "1",
+        "order": null,
+        "product": 4,
+        "published_at": "2020-11-13T17:51:29.961Z",
+        "created_at": "2020-11-13T17:51:22.601Z",
+        "updated_at": "2020-12-05T16:13:57.225Z"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy Tab S6",
+    "description": "Dernière tablette Android",
+    "unit_price": 499,
+    "category": {
+      "id": 1,
+      "name": "tablette",
+      "published_at": "2020-11-13T17:32:00.519Z",
+      "created_at": "2020-11-13T17:31:55.196Z",
+      "updated_at": "2020-11-16T01:00:14.191Z"
+    },
+    "published_at": "2020-11-13T17:38:38.815Z",
+    "created_at": "2020-11-13T17:38:25.323Z",
+    "updated_at": "2020-11-22T17:51:42.693Z",
+    "photo": {
+      "id": 6,
+      "name": "samsung galaxy tab s6.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 550,
+      "height": 550,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_samsung galaxy tab s6.jpg",
+          "hash": "thumbnail_samsung_galaxy_tab_s6_8cdafeec4c",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 3.66,
+          "path": null,
+          "url": "/uploads/thumbnail_samsung_galaxy_tab_s6_8cdafeec4c.jpg"
+        },
+        "small": {
+          "name": "small_samsung galaxy tab s6.jpg",
+          "hash": "small_samsung_galaxy_tab_s6_8cdafeec4c",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 500,
+          "size": 17.54,
+          "path": null,
+          "url": "/uploads/small_samsung_galaxy_tab_s6_8cdafeec4c.jpg"
+        }
+      },
+      "hash": "samsung_galaxy_tab_s6_8cdafeec4c",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 21.21,
+      "url": "/uploads/samsung_galaxy_tab_s6_8cdafeec4c.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-21T21:41:37.194Z",
+      "updated_at": "2020-11-21T21:41:37.219Z"
+    },
+    "details": [
+      {
+        "id": 3,
+        "quantity": "2",
+        "order": null,
+        "product": 5,
+        "published_at": "2020-11-13T17:52:18.210Z",
+        "created_at": "2020-11-13T17:52:16.666Z",
+        "updated_at": "2020-12-05T16:13:57.225Z"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Apple IPad Air",
+    "description": "Dernier IPAd Air\n",
+    "unit_price": 899,
+    "category": {
+      "id": 1,
+      "name": "tablette",
+      "published_at": "2020-11-13T17:32:00.519Z",
+      "created_at": "2020-11-13T17:31:55.196Z",
+      "updated_at": "2020-11-16T01:00:14.191Z"
+    },
+    "published_at": "2020-11-13T17:56:16.589Z",
+    "created_at": "2020-11-13T17:39:03.431Z",
+    "updated_at": "2020-11-22T22:57:17.484Z",
+    "photo": {
+      "id": 9,
+      "name": "ipad-air-4.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 380,
+      "height": 380,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_ipad-air-4.jpg",
+          "hash": "thumbnail_ipad_air_4_419a78d410",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 3.16,
+          "path": null,
+          "url": "/uploads/thumbnail_ipad_air_4_419a78d410.jpg"
+        }
+      },
+      "hash": "ipad_air_4_419a78d410",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 10.17,
+      "url": "/uploads/ipad_air_4_419a78d410.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-22T22:56:45.353Z",
+      "updated_at": "2020-11-22T22:56:45.365Z"
+    },
+    "details": []
+  },
+  {
+    "id": 7,
+    "name": "Hisense-43H78G",
+    "description": "Marque inconnu",
+    "unit_price": 200,
+    "category": {
+      "id": 3,
+      "name": "téléviseur",
+      "published_at": "2020-11-29T18:51:54.685Z",
+      "created_at": "2020-11-29T18:48:13.295Z",
+      "updated_at": "2020-11-29T18:51:54.723Z"
+    },
+    "published_at": "2020-11-29T18:54:16.266Z",
+    "created_at": "2020-11-29T18:51:45.665Z",
+    "updated_at": "2020-11-29T18:54:16.319Z",
+    "photo": {
+      "id": 11,
+      "name": "401490-Hisense-43H78G-Televiseur-1_OADA_2048x1528.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1200,
+      "height": 895,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_401490-Hisense-43H78G-Televiseur-1_OADA_2048x1528.jpg",
+          "hash": "thumbnail_401490_Hisense_43_H78_G_Televiseur_1_OADA_2048x1528_bed5190535",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 209,
+          "height": 156,
+          "size": 2.78,
+          "path": null,
+          "url": "/uploads/thumbnail_401490_Hisense_43_H78_G_Televiseur_1_OADA_2048x1528_bed5190535.jpg"
+        },
+        "large": {
+          "name": "large_401490-Hisense-43H78G-Televiseur-1_OADA_2048x1528.jpg",
+          "hash": "large_401490_Hisense_43_H78_G_Televiseur_1_OADA_2048x1528_bed5190535",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 746,
+          "size": 20.07,
+          "path": null,
+          "url": "/uploads/large_401490_Hisense_43_H78_G_Televiseur_1_OADA_2048x1528_bed5190535.jpg"
+        },
+        "medium": {
+          "name": "medium_401490-Hisense-43H78G-Televiseur-1_OADA_2048x1528.jpg",
+          "hash": "medium_401490_Hisense_43_H78_G_Televiseur_1_OADA_2048x1528_bed5190535",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 559,
+          "size": 13.42,
+          "path": null,
+          "url": "/uploads/medium_401490_Hisense_43_H78_G_Televiseur_1_OADA_2048x1528_bed5190535.jpg"
+        },
+        "small": {
+          "name": "small_401490-Hisense-43H78G-Televiseur-1_OADA_2048x1528.jpg",
+          "hash": "small_401490_Hisense_43_H78_G_Televiseur_1_OADA_2048x1528_bed5190535",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 373,
+          "size": 7.96,
+          "path": null,
+          "url": "/uploads/small_401490_Hisense_43_H78_G_Televiseur_1_OADA_2048x1528_bed5190535.jpg"
+        }
+      },
+      "hash": "401490_Hisense_43_H78_G_Televiseur_1_OADA_2048x1528_bed5190535",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 23.15,
+      "url": "/uploads/401490_Hisense_43_H78_G_Televiseur_1_OADA_2048x1528_bed5190535.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-29T18:51:29.385Z",
+      "updated_at": "2020-11-29T18:51:29.399Z"
+    },
+    "details": []
+  },
+  {
+    "id": 8,
+    "name": "TV Samsung QE55Q83T",
+    "description": "TV Samsung",
+    "unit_price": 1499,
+    "category": {
+      "id": 3,
+      "name": "téléviseur",
+      "published_at": "2020-11-29T18:51:54.685Z",
+      "created_at": "2020-11-29T18:48:13.295Z",
+      "updated_at": "2020-11-29T18:51:54.723Z"
+    },
+    "published_at": "2020-11-29T18:52:59.987Z",
+    "created_at": "2020-11-29T18:52:58.357Z",
+    "updated_at": "2020-11-29T18:53:00.018Z",
+    "photo": {
+      "id": 10,
+      "name": "TV-Samsung-QE55Q83T-2020-QLED-4K-UHD-Smart-TV-55-Argent.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 340,
+      "height": 340,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_TV-Samsung-QE55Q83T-2020-QLED-4K-UHD-Smart-TV-55-Argent.jpg",
+          "hash": "thumbnail_TV_Samsung_QE_55_Q83_T_2020_QLED_4_K_UHD_Smart_TV_55_Argent_4f13582156",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 5.1,
+          "path": null,
+          "url": "/uploads/thumbnail_TV_Samsung_QE_55_Q83_T_2020_QLED_4_K_UHD_Smart_TV_55_Argent_4f13582156.jpg"
+        }
+      },
+      "hash": "TV_Samsung_QE_55_Q83_T_2020_QLED_4_K_UHD_Smart_TV_55_Argent_4f13582156",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 16.03,
+      "url": "/uploads/TV_Samsung_QE_55_Q83_T_2020_QLED_4_K_UHD_Smart_TV_55_Argent_4f13582156.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-29T18:51:29.340Z",
+      "updated_at": "2020-11-29T18:51:29.359Z"
+    },
+    "details": []
+  },
+  {
+    "id": 9,
+    "name": "TV Sony Bravia",
+    "description": "TV Sony",
+    "unit_price": 2499,
+    "category": {
+      "id": 3,
+      "name": "téléviseur",
+      "published_at": "2020-11-29T18:51:54.685Z",
+      "created_at": "2020-11-29T18:48:13.295Z",
+      "updated_at": "2020-11-29T18:51:54.723Z"
+    },
+    "published_at": "2020-11-29T18:54:20.644Z",
+    "created_at": "2020-11-29T18:54:05.396Z",
+    "updated_at": "2020-11-29T18:54:20.677Z",
+    "photo": {
+      "id": 12,
+      "name": "TV-Sony-Bravia-KD65AG9BaeP-OLED-4K-HDR-Smart-Android-TV-65.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 340,
+      "height": 340,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_TV-Sony-Bravia-KD65AG9BaeP-OLED-4K-HDR-Smart-Android-TV-65.jpg",
+          "hash": "thumbnail_TV_Sony_Bravia_KD_65_AG_9_Bae_P_OLED_4_K_HDR_Smart_Android_TV_65_b573eb9fd1",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 4.36,
+          "path": null,
+          "url": "/uploads/thumbnail_TV_Sony_Bravia_KD_65_AG_9_Bae_P_OLED_4_K_HDR_Smart_Android_TV_65_b573eb9fd1.jpg"
+        }
+      },
+      "hash": "TV_Sony_Bravia_KD_65_AG_9_Bae_P_OLED_4_K_HDR_Smart_Android_TV_65_b573eb9fd1",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 14.4,
+      "url": "/uploads/TV_Sony_Bravia_KD_65_AG_9_Bae_P_OLED_4_K_HDR_Smart_Android_TV_65_b573eb9fd1.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-29T18:53:54.171Z",
+      "updated_at": "2020-11-29T18:53:54.186Z"
+    },
+    "details": []
+  },
+  {
+    "id": 10,
+    "name": "TV LG OLED55CX 4K",
+    "description": "TV LG",
+    "unit_price": 1699,
+    "category": {
+      "id": 3,
+      "name": "téléviseur",
+      "published_at": "2020-11-29T18:51:54.685Z",
+      "created_at": "2020-11-29T18:48:13.295Z",
+      "updated_at": "2020-11-29T18:51:54.723Z"
+    },
+    "published_at": "2020-11-29T21:17:56.862Z",
+    "created_at": "2020-11-29T21:17:54.033Z",
+    "updated_at": "2020-11-29T21:17:56.892Z",
+    "photo": {
+      "id": 13,
+      "name": "TV-LG-OLED55CX-4K-UHD-55-Smart-Noir-2020.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 340,
+      "height": 340,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_TV-LG-OLED55CX-4K-UHD-55-Smart-Noir-2020.jpg",
+          "hash": "thumbnail_TV_LG_OLED_55_CX_4_K_UHD_55_Smart_Noir_2020_225bee636f",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 3.59,
+          "path": null,
+          "url": "/uploads/thumbnail_TV_LG_OLED_55_CX_4_K_UHD_55_Smart_Noir_2020_225bee636f.jpg"
+        }
+      },
+      "hash": "TV_LG_OLED_55_CX_4_K_UHD_55_Smart_Noir_2020_225bee636f",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 13.58,
+      "url": "/uploads/TV_LG_OLED_55_CX_4_K_UHD_55_Smart_Noir_2020_225bee636f.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-29T21:17:48.180Z",
+      "updated_at": "2020-11-29T21:17:48.197Z"
+    },
+    "details": []
+  },
+  {
+    "id": 11,
+    "name": "TV Philips The One",
+    "description": "TV Philips",
+    "unit_price": 899,
+    "category": {
+      "id": 3,
+      "name": "téléviseur",
+      "published_at": "2020-11-29T18:51:54.685Z",
+      "created_at": "2020-11-29T18:48:13.295Z",
+      "updated_at": "2020-11-29T18:51:54.723Z"
+    },
+    "published_at": "2020-11-29T21:19:20.829Z",
+    "created_at": "2020-11-29T21:19:18.980Z",
+    "updated_at": "2020-11-29T21:19:20.858Z",
+    "photo": {
+      "id": 14,
+      "name": "TV-Philips-The-One-70PUS8545-70-LED-4K-UHD-Smart-TV-Ambilight-Argent.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 340,
+      "height": 340,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_TV-Philips-The-One-70PUS8545-70-LED-4K-UHD-Smart-TV-Ambilight-Argent.jpg",
+          "hash": "thumbnail_TV_Philips_The_One_70_PUS_8545_70_LED_4_K_UHD_Smart_TV_Ambilight_Argent_a7f47e3a97",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 2.41,
+          "path": null,
+          "url": "/uploads/thumbnail_TV_Philips_The_One_70_PUS_8545_70_LED_4_K_UHD_Smart_TV_Ambilight_Argent_a7f47e3a97.jpg"
+        }
+      },
+      "hash": "TV_Philips_The_One_70_PUS_8545_70_LED_4_K_UHD_Smart_TV_Ambilight_Argent_a7f47e3a97",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 6.7,
+      "url": "/uploads/TV_Philips_The_One_70_PUS_8545_70_LED_4_K_UHD_Smart_TV_Ambilight_Argent_a7f47e3a97.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-29T21:19:09.875Z",
+      "updated_at": "2020-11-29T21:19:09.887Z"
+    },
+    "details": []
+  },
+  {
+    "id": 12,
+    "name": "TV Xiaomi Mi 4S 43\" 4K ",
+    "description": "TV Xiaomi",
+    "unit_price": 299,
+    "category": {
+      "id": 3,
+      "name": "téléviseur",
+      "published_at": "2020-11-29T18:51:54.685Z",
+      "created_at": "2020-11-29T18:48:13.295Z",
+      "updated_at": "2020-11-29T18:51:54.723Z"
+    },
+    "published_at": "2020-11-29T21:20:56.146Z",
+    "created_at": "2020-11-29T21:20:53.128Z",
+    "updated_at": "2020-11-29T21:20:56.183Z",
+    "photo": {
+      "id": 15,
+      "name": "TV Xiaomi.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 340,
+      "height": 340,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_TV Xiaomi.jpg",
+          "hash": "thumbnail_TV_Xiaomi_bfa7403cd4",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 4.04,
+          "path": null,
+          "url": "/uploads/thumbnail_TV_Xiaomi_bfa7403cd4.jpg"
+        }
+      },
+      "hash": "TV_Xiaomi_bfa7403cd4",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 12.5,
+      "url": "/uploads/TV_Xiaomi_bfa7403cd4.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-29T21:20:48.415Z",
+      "updated_at": "2020-11-29T21:20:48.429Z"
+    },
+    "details": []
+  },
+  {
+    "id": 13,
+    "name": "TV Sony XH9096BAEP",
+    "description": "TV Sony",
+    "unit_price": 999,
+    "category": {
+      "id": 3,
+      "name": "téléviseur",
+      "published_at": "2020-11-29T18:51:54.685Z",
+      "created_at": "2020-11-29T18:48:13.295Z",
+      "updated_at": "2020-11-29T18:51:54.723Z"
+    },
+    "published_at": "2020-11-29T21:22:40.878Z",
+    "created_at": "2020-11-29T21:21:55.746Z",
+    "updated_at": "2020-11-30T23:46:43.077Z",
+    "photo": {
+      "id": 16,
+      "name": "TV-Sony-KD55XH9096BaeP-55-LED-Smart-TV-Noir.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 340,
+      "height": 340,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_TV-Sony-KD55XH9096BaeP-55-LED-Smart-TV-Noir.jpg",
+          "hash": "thumbnail_TV_Sony_KD_55_XH_9096_Bae_P_55_LED_Smart_TV_Noir_ca06922e23",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 3.36,
+          "path": null,
+          "url": "/uploads/thumbnail_TV_Sony_KD_55_XH_9096_Bae_P_55_LED_Smart_TV_Noir_ca06922e23.jpg"
+        }
+      },
+      "hash": "TV_Sony_KD_55_XH_9096_Bae_P_55_LED_Smart_TV_Noir_ca06922e23",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 10.41,
+      "url": "/uploads/TV_Sony_KD_55_XH_9096_Bae_P_55_LED_Smart_TV_Noir_ca06922e23.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2020-11-29T21:21:51.211Z",
+      "updated_at": "2020-11-29T21:21:51.224Z"
+    },
+    "details": []
+  }
+]
